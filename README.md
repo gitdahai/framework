@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 ## xUtils3简介
 * xUtils 包含了很多实用的android工具.
 * xUtils 支持超大文件(超过2G)上传，更全面的http请求协议支持(11种谓词)，拥有更加灵活的ORM，更多的事件注解支持且不受混淆影响...
@@ -279,3 +280,6 @@ jni代码见: https://github.com/wyouflf/webp-android-backport/commits/master
 * Email： <wyouflf@qq.com>, <wyouflf@gmail.com>
 * 有任何建议或者使用中遇到问题都可以给我发邮件, 你也可以加入QQ群：330445659(已满), 275967695, 257323060,
 384426013, 176778777, 169852490, 261053948, 330108003, 技术交流，idea分享 *_*
+=======
+# framework
+>>>>>>> 32c4a7684e7afe97842a739507b0356400f00e54
